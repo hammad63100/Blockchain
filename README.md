@@ -1,5 +1,6 @@
 # Blockchain
  Blockchain-from-scratch.
+ Redis server on the first
 
 # Main server run
  npm run dev
